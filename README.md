@@ -1,6 +1,10 @@
-# pet_shop
+# PetShop UI app
 
-A new Flutter project.
+Demo UI for a pet shop application, built from Flutter.
+![Screenshot 1](https://github.com/kent2508/flutter-pet-shop-ui/blob/main/README_images/screenshot_1.png)  
+![Screenshot 2](https://github.com/kent2508/flutter-pet-shop-ui/blob/main/README_images/screenshot_2.png)  
+![Screenshot 3](https://github.com/kent2508/flutter-pet-shop-ui/blob/main/README_images/screenshot_3.png)  
+![Screenshot 4](https://github.com/kent2508/flutter-pet-shop-ui/blob/main/README_images/screenshot_4.png)  
 
 ## Getting Started
 
