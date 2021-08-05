@@ -2,11 +2,12 @@
 
 Demo UI for a pet shop application, built from Flutter.  
 
+<p float="left">
 <img src="https://github.com/kent2508/flutter-pet-shop-ui/blob/main/README_images/screenshot_1.png" width="20%"/>
 <img src="https://github.com/kent2508/flutter-pet-shop-ui/blob/main/README_images/screenshot_2.png" width="20%"/>
 <img src="https://github.com/kent2508/flutter-pet-shop-ui/blob/main/README_images/screenshot_3.png" width="20%"/>
 <img src="https://github.com/kent2508/flutter-pet-shop-ui/blob/main/README_images/screenshot_4.png" width="20%"/>  
-
+</p>
 
 ## Getting Started
 
